@@ -1,1 +1,15 @@
-/*  your css code here. If applicable */
+.box{
+	background-color: lightblue;
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+}
+.text{
+	text-align: center;
+    line-height: 300px;
+    font-size: 26px;
+	color:purple;
+}
